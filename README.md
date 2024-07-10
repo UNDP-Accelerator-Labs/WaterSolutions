@@ -1,7 +1,7 @@
 # Urban cooling solutions
 
 ## Data description
-The [UNDP Accelerator Labs Network](https://www.undp.org/acceleratorlabs/) has compiled an uncurated collection of 166 desk notes and field notes (referred to here as “the dataset”) on water-related solutions from around the world. These range from technical solutions for harvesting water, to citizen science initiatives for measuring the quality of water, to roofing materials, to hydroponics systems. Each note includes a short description of the solution, geographic information of where it was mapped, a link to a longer description of the solution, and (in most cases) an image that illustrates the solution. These are shared here as cards to facilitate workshop activities.
+The [UNDP Accelerator Labs Network](https://www.undp.org/acceleratorlabs/) has compiled an uncurated collection of 166 desk notes and field notes (referred to here as “the dataset”) on water-related solutions from around the world. These range from technical solutions for harvesting water, to citizen science initiatives for measuring the quality of water, to roofing materials, to hydroponics systems. Each note includes a short description of the solution, geographic information of where it was mapped, a number of thematic area and SDG tags, a link to a longer description of the solution, and (in most cases) an image that illustrates the solution. These are shared here as cards to facilitate workshop activities.
 
 Note this collection is shared primarily for inspiration. The solutions showcased here are not endorsed in any way by UNDP.
 
